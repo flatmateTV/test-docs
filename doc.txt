@@ -1,3 +1,4 @@
 this is my new document for testing
 i like this
 it's cool
+here is a new line
